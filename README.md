@@ -3,7 +3,7 @@
 This documents includes Raspberry Pi SD image URL (Jessie or Jessie Lite):
 https://learn.adafruit.com/adafruit-2-2-pitft-hat-320-240-primary-display-for-raspberry-pi/easy-install
 
-If do not work Raspberry Pi Zero camera update your firmware:
+If does not work Raspberry Pi Zero camera, please update your firmware:
 
 `sudo rpi-update`
 
